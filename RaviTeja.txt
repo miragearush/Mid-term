@@ -1,0 +1,51 @@
+what are OOPS concepts
+Interface vs abstract class
+if two interface have same default method how will you solve this in the class you are implementing
+Try with resources why and how
+if their is a return statement in try and catch and try throws exception what will happen and what if finally also has exception
+exception and type of exception
+what is serialization and deserialization in java? and how it is implemented 
+what is serialversionUID and what happens if not given
+Static methods , block and variables
+Java 8 features and what features you use explain them
+Lamda vs anonymous class 
+Method references and types of method references
+record and sealed class
+rules for overriding?
+what is optional what does it solve and methods in it 
+covariant type 
+String contant pool 
+JMM 
+super and this 
+compile time and runtime polymorphism 
+Types of inner class 
+ 
+Generics and type eraser 
+what are collection explain type of collections interface
+explain concurrent collection
+how does concurrent hashMap work
+difference between hashMap vs concurrent HashMap internally
+difference between Haset and treeset 
+What is internal implementation of treeset 
+what is comparable and comparator 
+ 
+what is git and why was it introduced what commands you known and use daily
+Difference between git merge vs git rebase
+git fetch pull
+ 
+what is maven and what is its lifecycle 
+what is pom.xml
+ 
+what is design principle SOLID?
+ 
+what is design pattern creation, structural and behaviour
+All the design patterns definition with example 
+ 
+What is unit testing and all the annotations used in Junit5 
+ 
+Stream:
+Employee Class given 
+filter employee whose salary greater than specific threshold salary
+sort name in ascending order
+ uppercase names
+filter employees with experience greater that 5 and increase their salary by 10%

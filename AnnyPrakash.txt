@@ -1,0 +1,38 @@
+DSA
+first non-repeating character
+check anagram
+GIT- 
+how to resolve merge conflicts
+how to create branch
+Maven-
+lifecycle
+.m2 repo
+JMM 
+class loader 
+jdk,jre,jvm
+PermGen vs Metaspace
+string constant pool
+Java
+Pillars of oops
+runtime vs compile time polymorphism
+can constructor be overridden?
+private constructor
+equals and ==
+default method in interface
+serialization
+volatile,transient
+custom exception
+checked vs unchecked exception
+comparable vs comparator
+hashmap, treemap
+fail-fast, fail-safe
+how to create immutable class
+list all java 8 features
+singleton pattern -> discussion
+solid -> full discussion
+kiss,dry,yagni
+spring vs springboot
+@SpringBootApplication
+dependency injection
+ioc
+stereotype annotation
